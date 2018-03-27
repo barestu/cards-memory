@@ -1,6 +1,6 @@
 # The Cards Memory Game
 Final Project Phase 0. The game is about how to match all the card based on the player memory of 2 opened cards each turn.
-Link: <a href="https://barestu.github.io/cards-game" target="_blank">barestu.github.io/cards-game</a>
+Link: <a href="https://barestu.github.io/cards-memory" target="_blank">barestu.github.io/cards-memory</a>
 
 ## Rules of Game
 1. Choose 2 closed cards
